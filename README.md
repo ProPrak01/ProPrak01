@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash Kumar Jha</h1>
 <h3 align="center">A passionate fullstack developer and ML engineer, B.Tech student from IIT Madras</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proprak01" alt="proprak01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proprak01&theme=onedark" alt="proprak01" /></a> </p>
 
 - 🔭 I’m currently working on a chrome extension which filters the recomendation based on the topic give using NLP [DeTox](https://github.com/ProPrak01/DeTox)
 
