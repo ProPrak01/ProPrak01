@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1c98shr6E9E6Ld7oNPXiGXxr6QV_Q5wYMJ_5-NdI49zc/edit?usp=sharing](https://docs.google.com/document/d/1c98shr6E9E6Ld7oNPXiGXxr6QV_Q5wYMJ_5-NdI49zc/edit?usp=sharing)
 
-- ⚡ Fun fact **I am an IITIAN and let me tell you something, iitians are not goat they are goat + donkey**
+- ⚡ Fun fact ** no facts are fun actually **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
