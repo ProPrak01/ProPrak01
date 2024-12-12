@@ -3,21 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proprak01&theme=onedark" alt="proprak01" /></a> </p>
 
-- 🔭 I’m currently working on a chrome extension which filters the recomendation based on the topic give using NLP [DeTox](https://github.com/ProPrak01/DeTox)
 
-- 🌱 I’m currently learning **Pytorch , Flask ,Django**
-
-- 👯 I’m looking to collaborate on a Spring Hacks hackathon project [GroupStudy](https://github.com/ProPrak01/StudySync-SpringHacks)
-
-- 🤝 I’m looking for help with Spring Hacks [GroupStudy](https://github.com/ProPrak01/StudySync-SpringHacks)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ProPrak01](https://github.com/ProPrak01)
-
-- 💬 Ask me about **react , vue , MERN , tensorflow, NLP , etc**
-
-- 📫 How to reach me **ed22b059@smail.iitm.ac.in**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1c98shr6E9E6Ld7oNPXiGXxr6QV_Q5wYMJ_5-NdI49zc/edit?usp=sharing](https://docs.google.com/document/d/1c98shr6E9E6Ld7oNPXiGXxr6QV_Q5wYMJ_5-NdI49zc/edit?usp=sharing)
 
 - ⚡ Fun fact **no facts are fun actually**
 
