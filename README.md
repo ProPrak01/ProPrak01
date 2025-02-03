@@ -15,7 +15,6 @@
 <a href="https://codesandbox.com/proprak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="proprak" height="30" width="40" /></a>
 <a href="https://kaggle.com/proprak01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="proprak01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profil/proprak01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="proprak01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/proprak01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="proprak01" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/uKUAyZYp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/uKUAyZYp" height="30" width="40" /></a>
 </p>
 
